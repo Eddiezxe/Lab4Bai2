@@ -1,0 +1,17 @@
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.csproj.AssemblyReference.cache
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.Form1.resources
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.csproj.GenerateResource.cache
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.AssemblyInfoInputs.cache
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.AssemblyInfo.cs
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.csproj.CoreCompileInputs.cache
+E:\Project .NET\Lab4Bai2\Lab4Bai2\bin\Debug\net6.0-windows\Lab4Bai2.exe
+E:\Project .NET\Lab4Bai2\Lab4Bai2\bin\Debug\net6.0-windows\Lab4Bai2.deps.json
+E:\Project .NET\Lab4Bai2\Lab4Bai2\bin\Debug\net6.0-windows\Lab4Bai2.runtimeconfig.json
+E:\Project .NET\Lab4Bai2\Lab4Bai2\bin\Debug\net6.0-windows\Lab4Bai2.dll
+E:\Project .NET\Lab4Bai2\Lab4Bai2\bin\Debug\net6.0-windows\ref\Lab4Bai2.dll
+E:\Project .NET\Lab4Bai2\Lab4Bai2\bin\Debug\net6.0-windows\Lab4Bai2.pdb
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.dll
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\ref\Lab4Bai2.dll
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.pdb
+E:\Project .NET\Lab4Bai2\Lab4Bai2\obj\Debug\net6.0-windows\Lab4Bai2.genruntimeconfig.cache
